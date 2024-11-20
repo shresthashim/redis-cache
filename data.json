@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Laptop",
+    "description": "A high-performance laptop for gaming and work.",
+    "price": 1200,
+    "category": "Electronics",
+    "specs": {
+      "processor": "Intel i7",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "graphics": "NVIDIA GTX 1660"
+    }
+  },
+  {
+    "name": "Smartphone",
+    "description": "A latest-generation smartphone with a powerful camera.",
+    "price": 799,
+    "category": "Electronics",
+    "specs": {
+      "processor": "Snapdragon 888",
+      "ram": "8GB",
+      "storage": "128GB",
+      "camera": "64MP"
+    }
+  },
+  {
+    "name": "Desk Chair",
+    "description": "An ergonomic chair designed for comfort and support.",
+    "price": 199,
+    "category": "Furniture",
+    "specs": {
+      "material": "Leather",
+      "color": "Black",
+      "adjustable": true
+    }
+  }
+]
