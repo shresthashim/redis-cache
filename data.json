@@ -3,7 +3,7 @@
     "name": "Laptop",
     "description": "A high-performance laptop for gaming and work.",
     "price": 1200,
-    "category": "Electronics",
+    "category": "Laptops",
     "specs": {
       "processor": "Intel i7",
       "ram": "16GB",
